@@ -1,11 +1,12 @@
 @import "./fonts";
-@import './body.scss';
+@import "./body.scss";
 @import "./variables";
-@import './popup-buttons.scss';
-@import './popup-message.scss';
+@import "./popup-buttons.scss";
+@import "./popup-message.scss";
 @import "./visually-hidden";
 @import "./components/page-header/index";
 @import "./components/main/index";
 
-
-
+.hidden {
+  display: none;
+}
