@@ -1,0 +1,13 @@
+export { ReactComponent as AcceptIcon } from "./assets/icons/accept.svg";
+export { ReactComponent as CalendarIcon } from "./assets/icons/calendar.svg";
+export { ReactComponent as DeclineIcon } from "./assets/icons/decline.svg";
+export { ReactComponent as ExitIcon } from "./assets/icons/exit.svg";
+export { ReactComponent as InfoIcon } from "./assets/icons/info.svg";
+export { ReactComponent as LogoutIcon } from "./assets/icons/logout.svg";
+export { ReactComponent as MoreHorizontalIcon } from "./assets/icons/more-horizontal.svg";
+export { ReactComponent as MoreVerticalIcon } from "./assets/icons/more-vertical.svg";
+export { ReactComponent as PauseIcon } from "./assets/icons/pause.svg";
+export { ReactComponent as PlusIcon } from "./assets/icons/plus.svg";
+export { ReactComponent as SettingsIcon } from "./assets/icons/settings.svg";
+export { ReactComponent as StartIcon } from "./assets/icons/start.svg";
+export { ReactComponent as UploadIcon } from "./assets/icons/upload.svg";
