@@ -1,0 +1,22 @@
+.delete-popup {
+  width: 428px;
+  height: 207px;
+  border-radius: 10px;
+  background-color: #fff;
+
+  &__header {
+    box-sizing: border-box;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 13px;
+    margin-bottom: 34px;
+    box-shadow: 0px 15px 30px rgba(216, 226, 232, 0.12);
+    background-color: #f8f8f8;
+  }
+  &__message {
+    margin: 0;
+    padding: 0;
+    color: #1e1e1e;
+  }
+}

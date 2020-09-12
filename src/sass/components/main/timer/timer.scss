@@ -1,0 +1,39 @@
+.timer {
+  box-sizing: border-box;
+  height: 362px;
+  border-bottom: 1px solid $gray;
+  display: flex;
+  flex-direction: column;
+
+  &__header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 50px;
+  }
+
+  &__new-worklog {
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+  }
+
+  &__description {
+    text-transform: uppercase;
+    color: $text-color-gray;
+  }
+
+  &__btn {
+    width: 66px;
+    height: 66px;
+    border: none;
+    border-radius: 50%;
+    background-color: #fff;
+    background-image: url("../icons/plus.svg");
+    background-position: center;
+    background-repeat: no-repeat;
+    cursor: pointer;
+  }
+}
